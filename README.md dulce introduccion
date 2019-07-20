@@ -1,0 +1,29 @@
+# Control-de-Procesos
+#Notas de control de procesos
+hecho por:Dulce Sarai Rodriguez Flores
+
+##Introduccion de LAVBIEW
+
+El Lavbiew es un entorno de programacion grafica usado por ingenieros y cientificos para desarrollar mediciones sofistificadas,pruebas y sistemas de control.El 
+Lavbiew puede integrar una gran variedad de dispositivos de hardware en este curso utilizaremos el hardware de comunicacion serial y el takde dak (data Acquisitión) , configurado el hardware en el max
+(Measuremet autometion Explorer).
+
+Usted puede descargar la version de LAVBIEW estudiant para windos o mac.Por lo que no necesita comparar software.
+
+El lavbiew es una contracción de las palabras laboratios virtual insrument Enginering Workbead.
+
+El lavbiew es un software de desarrollo grafico y flexibl creado por national instruments,una compañia que crea productos de software y harware que determine a las computadoras ayudar a ingenieria y cientificos a tomar mediciones,procesos,analizar y guardar datos.
+National Instruments fue fundado hace 39 años en Texas a partir de personas.
+
+Cientificos,Ingenieros investigadores ,desarrollo,produccion,pruebas e industrias de servicio como los semionductores automotrices espacial electronica,quimica ,ccomunicaciónes y farmaceutica han usado y continuan usando Lavbiew para desarrollar su trabajo.
+
+Ejemplo space x utiliza el Lavbiew para llevar los cohetes falcon 9 al espacio.
+
+##Instrumentos virtuales 
+
+Los programas de lavbiewson llamados instrumentos virtuales o VI´s(Virtual Instrument)el lavbiew es diferente de otros lenguajes de programacion ejemplo python y c++ ya que lavbiew utiliza una terminologia familiar para cientificos ingenieros por lo que sus simbolos iconos graficos son facilmente identificables por visión visual se puede aprender en el lavbiew incluso si se tiene pocaexperiencia en la programacion 
+
+
+
+##conclusiones 
+en este programa vemos que es muy util para todo sistema de ingenierias ya que el lavbiew utiliza otrotipo de lenguaje y nos ayuda a simplicar desde una simple suma a algo mas obtenido.
